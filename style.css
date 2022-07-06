@@ -26,6 +26,10 @@ header
           text-align: center;
         
     }
+    .mainpage
+    {width: 1204px; 
+     margin:0 auto;
+     } 
 .headename1
     {
         color: rgb(255, 194, 214);
@@ -34,7 +38,9 @@ header
     {
         color: rgb(255, 194, 214);
     }
- .mainpage
-    {width: 1204px; 
-     margin:0 auto;
-     } 
+ .graphic{
+    background-image: url("images /chantaburi-cover.jpeg");
+    height: 320px;
+    padding: auto;
+ }
+
