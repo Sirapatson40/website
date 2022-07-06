@@ -1,9 +1,9 @@
 body {
-    background-image: url('https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000');"
+    background-image: url('https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000');
      font-family:'K2D', sans-serif; 
      background-repeat: repeat;
     background-size: cover;
-  }
+    }
     
     
     
@@ -36,5 +36,5 @@ header
     }
  .mainpage
     {width: 1204px; 
-     margin:70 auto;
+     margin:0 auto;
      } 
