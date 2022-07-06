@@ -37,7 +37,7 @@ header
     }
     .mainpage
     {width: 1204px; 
-     margin:0auto;
+     margin:0 auto;
      } 
  .graphic{
     background-image: url("images /chantaburi-cover.jpeg");
@@ -45,7 +45,7 @@ header
     padding: auto;
  }
  .maps{
-    border:1px pink ;
+    border:1px rgb(206, 160, 168) ;
     height: 300px
  }
 
