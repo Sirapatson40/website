@@ -44,4 +44,8 @@ header
     height: 320px;
     padding: auto;
  }
+ .maps{
+    border:1px pink ;
+    height: 300px
+ }
 
