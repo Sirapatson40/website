@@ -81,3 +81,12 @@ header img {
     float: right;
     padding: 10px 40px;
 }
+
+.top-menu a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.top-menu li::marker {
+    
+}
