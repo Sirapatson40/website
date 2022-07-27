@@ -9,7 +9,6 @@ body {
   
 * {    
     scroll-behavior: smooth;
-    list-style: none;
     font-family: 'Mitr', sans-serif;
     font-weight: 600;
 }
