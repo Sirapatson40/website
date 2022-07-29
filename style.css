@@ -13,7 +13,7 @@ body {
     font-weight: 600;
 }
 header {
-    background-color: #778899;
+    background-color: #6495ED;
     font-size: 3vh;
     height: 130px;
 }
@@ -39,7 +39,8 @@ footer {
 }
 
 .head-name {
-    color: #ffe000;
+    color: #FF69B4
+    ;
 }
 
 .head-name-1 {
