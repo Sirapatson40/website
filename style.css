@@ -1,6 +1,6 @@
 
 body {
-    background-image: image(images/bg.jpg);
+    background-image: url(images/bg.jpg);
     background-repeat: repeat;
     height: auto;
     margin: 0;
