@@ -75,12 +75,12 @@ header img {
     margin: auto;
     display: flex;
     justify-content: left;
+    background-color: rgba(255, 255, 255, 0.5);
 }
 
 .top-menu li {
     float: left;
     padding: 10px 40px;
-    background-color: rgba(255, 255, 255, 0.5);
 }
 
 .top-menu a {
