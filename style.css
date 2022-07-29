@@ -1,7 +1,6 @@
 
-
 body {
-    background-image: images/bg.jpg;
+    background-image: image(images/bg.jpg);
     background-repeat: repeat;
     height: auto;
     margin: 0;
